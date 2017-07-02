@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "request": "launch",
+            "type": "cppdbg",
+            "MIMode": "lldb",
+            "args": [],
+            "cwd": "${workspaceRoot}",
+            "environment": [],
+            "externalConsole": false,
+            "name": "(lldb) Launch",
+            "preLaunchTask": "make",
+            "program": "${workspaceRoot}/main",
+            "stopAtEntry": false
+        }
+    ]
+}
